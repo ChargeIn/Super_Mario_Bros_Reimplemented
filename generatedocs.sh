@@ -1,0 +1,12 @@
+javadoc -docletpath /home/lars/Downloads/texdoclet/target/TeXDoclet.jar \
+	-doclet org.stfm.texdoclet.TeXDoclet \
+	-noindex \
+	-tree \
+	-hyperref \
+	-texinit texdoclet_include/preamble.tex \
+	-imagespath ".." \
+	-output texdoclet_output/Developerhandbuch.tex \
+	-title "Marioreimplementation Developerhandbuch" \
+	-author "Florian Plesker, Tim Eckle, Lars Hick" \
+	-sourcepath src/ \
+	-subpackages Controller Model View\

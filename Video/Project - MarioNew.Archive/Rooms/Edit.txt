@@ -1,0 +1,41 @@
+{
+   "Components" : {
+      "MultiSourceContentPanel" : {
+         "View" : "int=1",
+         "TileSize" : "String=ISPSmallThumb",
+         "SplitterPos" : "int=108",
+         "size" : "int=0",
+         "ShowNavigator" : "bool=true",
+         "ReelGallery" : "int=0",
+         "LastTab" : "String=Project Contents",
+         "handle" : "String=GZ2Z0000",
+         "E30Z1IFY" : "String=000000480001139F1139F",
+         "E30Z1IFX" : "String=000000480001139E1139E",
+         "E30Z1E3P" : "String=000000480000FDA6FDA6",
+         "E30Z1E3O" : "String=000000480000FDA5FDA5",
+         "E30Z1E3N" : "String=000000480000FDA4FDA4",
+         "E30Z1E3M" : "String=000000480000FDA3FDA3",
+         "E30Z1E3L" : "String=000000480000FDA2FDA2",
+         "E30Z1E3K" : "String=000000480000FDA1FDA1",
+         "E30Z1E3J" : "String=000000480000FDA0FDA0",
+         "E30Z1E3I" : "String=000000480000FD9FFD9F",
+         "E30Z1E3H" : "String=000000480000FD9EFD9E",
+         "E30Z1E3G" : "String=000000480000FD9DFD9D",
+         "E30Z1E3F" : "String=000000480000FD9CFD9C",
+         "E30Z1E3E" : "String=000000480000FD9BFD9B",
+         "BinHandle" : "String=GZ2Z0000|INVALID"
+      },
+      "SourceRecordViewerPanel" : {
+         "SourceVisible" : "bool=true"
+      }
+   },
+   "Splits" : {
+      "Value" : 0.3894,
+      "Top" : {
+         "Value" : 0.2337
+      }
+   },
+   "Misc" : {
+      "TileSize" : "ISPSmallThumb"
+   }
+}
